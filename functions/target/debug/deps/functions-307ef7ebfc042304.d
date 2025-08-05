@@ -1,6 +1,6 @@
-/home/Mitchy/Development/Rust/rustbook/functions/target/debug/deps/functions-307ef7ebfc042304.d: src/main.rs Cargo.toml
+/home/Mitchy/Development/rustbook/functions/target/debug/deps/functions-307ef7ebfc042304.d: src/main.rs Cargo.toml
 
-/home/Mitchy/Development/Rust/rustbook/functions/target/debug/deps/libfunctions-307ef7ebfc042304.rmeta: src/main.rs Cargo.toml
+/home/Mitchy/Development/rustbook/functions/target/debug/deps/libfunctions-307ef7ebfc042304.rmeta: src/main.rs Cargo.toml
 
 src/main.rs:
 Cargo.toml:

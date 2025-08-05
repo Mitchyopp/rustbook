@@ -1,1 +1,1 @@
-/home/Mitchy/Development/Rust/rustbook/functions/target/debug/functions: /home/Mitchy/Development/Rust/rustbook/functions/src/main.rs
+/home/Mitchy/Development/rustbook/functions/target/debug/functions: /home/Mitchy/Development/rustbook/functions/src/main.rs
