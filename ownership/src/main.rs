@@ -20,4 +20,9 @@ fn main() {
     let my_str = String::from("hello");
     print_length(&my_str);
     println!("{my_str}");
+
+
+    let mut first_name = String::from("Mitch");
+    first_name.push_str("opp");
+    println!("{first_name}");
 }
