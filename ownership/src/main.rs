@@ -25,4 +25,11 @@ fn main() {
     let mut first_name = String::from("Mitch");
     first_name.push_str("opp");
     println!("{first_name}");
+
+    let s1 = String::from("hello");
+    println!("{s1}");
+    let s2 = s1.clone();
+    println!("{s2}");
+    let s2 = "Changed";
+    println!("{s2}");
 }
